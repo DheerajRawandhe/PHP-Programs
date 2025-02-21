@@ -1,0 +1,13 @@
+body{
+  background-color: rgb(49, 49, 49);
+  color: white;
+}
+
+h1{
+  color: aqua;
+}
+
+li{
+  color: rgb(255, 110, 13);
+  font-size: large;
+}

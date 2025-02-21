@@ -1,0 +1,1 @@
+CREATE TABLE `mytable` (`sno` INT NOT NULL AUTO_INCREMENT , `name` VARCHAR(20) NOT NULL , `age` INT(10) NOT NULL , `gander` VARCHAR(10) NOT NULL , PRIMARY KEY (`sno`));
